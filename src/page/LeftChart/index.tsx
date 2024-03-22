@@ -36,7 +36,7 @@ export const LeftChart: React.FC = () => {
       )}
       <div className="flex items-end justify-center">
         <SelectCategory item={item} setItem={setItem} />
-      </div>
+      </div> 
     </div>
   );
 };
